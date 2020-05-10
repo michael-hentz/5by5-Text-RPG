@@ -6,4 +6,6 @@ public:
 private:
 };
 
-weapon::weapon();
+		weapon::weapon();
+void	weapon::setDamage();
+void	weapon::getDamage();
